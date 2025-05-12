@@ -1,4 +1,5 @@
-## This script run PDB Miner for Burton's Tyrosine Kinase (BTK) protein, with Uniprot Accession Code (UPAC): Q06187, structure selection.
+## Structure Curation and Selection with PDBminer
+This script run PDB Miner for Burton's Tyrosine Kinase (BTK) protein, with Uniprot Accession Code (UPAC): Q06187, structure selection.
 
 Step 1: Initialise conda environment for the first time
 ```bash
