@@ -1,3 +1,4 @@
+## Folding Free Energy Calculation (ΔΔG) with MutateX Ensemble Mode
 This script run for Mutatex Ensemble mode
 
 Run the CABS-flex to generate the ensembled structure 
