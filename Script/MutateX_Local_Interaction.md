@@ -1,3 +1,4 @@
+## Solvent Accessibility Analysis with NACCESS and Folding Free Energy Calculation (ΔΔG) with MutateX
 This script run for solvent accessibility analysis with NACCESS and folding free energy (ΔΔG) analysis with MutateX simple mode
 
 Solvent accessibility analysis with NACCESS
